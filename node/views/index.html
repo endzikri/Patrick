@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Skočko </title>
+        <meta charset="utf-8">
+		<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+		<style>
+            body {
+                background-image: url('background.jpg');
+                background-repeat: no-repeat;
+                background-size: 100%;
+            }
+            .div-table {
+                position: fixed;
+                display: table;
+                width: auto;
+                height: 300px;
+                border: 1px solid;
+                border-spacing: 1px;
+				align-content: center;
+                margin: auto;
+                background-color: lightcoral;
+                left: 350px;
+            }
+            .div-table-row {
+                display: table-row;
+                width: 850px;
+                height: 90px;
+                clear: both;
+                border: 10px solid;
+            }
+            
+            .color-row {
+                display: table-row;
+                height: 94px;
+                width: 100%;
+                border: 3px solid blueviolet;
+                clear: both;
+                position: relative;
+            }
+            
+            .div-table-col {
+                float: left;
+                width: 120px;
+                height: 90px;
+                display: block;	
+                margin: 2px;
+                background-color: white;
+                
+            }
+            
+            
+            .color-field {
+                float: left;
+                display: block;
+                margin: auto;
+                position: relative;
+                height: inherit;
+                width: 81.35px;
+            }
+
+            #slike {
+                position: fixed;
+                top: 0;
+                margin: 2px;
+                width: 200px;
+				height: 70%;
+            }
+
+            td img {
+                width: 100%;
+                height: auto;
+                display: block;
+            }
+            div img {
+                border: 2px solid;
+                width: 110px;
+                height: 80px;
+                display: block;	
+                margin: 3px;
+
+            }
+            button {
+                float: right;
+                background-color: #ffffff;
+                border-radius: 30px;
+                color: lightcoral;
+                font-weight: 400;;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+			.boje {
+				width: 40px;
+				height: 40px;
+				border-radius: 50%;
+				margin: auto;
+                top: 30px;
+                position: inherit;
+			}
+
+			#undoBtn {
+				width: 120px;
+				height: 30px;
+				float: left;
+                margin-top: 30px;
+                background-color: lightcoral;
+                border-radius: 30px;
+                color: #ffffff;
+                font-weight: 400;;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+			}
+
+            #res {
+                float: right;
+                width: 25%;
+                height: 576px;
+                position: fixed;
+                top: 10px;
+                right: 20px;
+                border: 2px solid red;
+                border-radius: 10%;
+                //padding-left: 45px;
+                background-color: lightcoral;
+            }
+            #progress {
+                width: 99%; 
+                height: 30px;
+                display: block;
+                background-color: gray;
+                position: absolute;
+                bottom: 2%;
+                border-radius: 30px;
+            }
+
+            #bar {
+                width: 0%;
+                height: inherit;
+                background-color: lightcoral;
+
+            }
+
+            #startButton {
+                float: left;
+                position: absolute;
+                bottom: 11%;
+                width: 120px;
+                height: 30px;
+                background-color: lightcoral;
+                border-radius: 30px;
+                color: #ffffff;
+                font-weight: 400;;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+        </style>
+    </head>
+    <body>
+		<div id="slike">
+			<img id = "img0" src="slike/gari.jpg"/>
+			<img id = "img1" src="slike/keba_kraba.jpg"/>
+			<img id = "img2" src="slike/lignjoslav.jpg"/>
+			<img id = "img3" src="slike/patrik.png"/>
+			<img id = "img4" src="slike/sandy.png"/>
+			<img id = "img5" src="slike/sundjerbob.jpg"/>
+		</div>
+        
+		<script src="skocko.js"></script>
+    </body>
+</html>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="749f826c-85fe-43bd-b58d-b61ccca52740" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YIYy2Zcsslttjc6XD9YmE7m5Ne" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/react-client/package.json" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/routes/index.js" working-dir="$PROJECT_DIR$/node/routes">
+      <method v="2" />
+    </configuration>
+    <configuration name="node" type="NodeJSConfigurationType" singleton="false" path-to-js-file="node/bin/www" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="skocko.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node/views/skocko.js" working-dir="$PROJECT_DIR$/node/views">
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/react-client/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.node" />
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.skocko.js" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.skocko.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="749f826c-85fe-43bd-b58d-b61ccca52740" name="Default Changelist" comment="" />
+      <created>1582631826289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582631826289</updated>
+      <workItem from="1582631827788" duration="849000" />
+      <workItem from="1582632728988" duration="230000" />
+      <workItem from="1582728705493" duration="871000" />
+      <workItem from="1582729619537" duration="274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582729179258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1582729179258" />
+    <state x="548" y="170" key="FileChooserDialogImpl" timestamp="1582631936395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582631936395" />
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom" timestamp="1582729892971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582729892971" />
+    <state width="1364" height="195" key="GridCell.Tab.0.center" timestamp="1582729892971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582729892971" />
+    <state width="1364" height="195" key="GridCell.Tab.0.left" timestamp="1582729892970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582729892970" />
+    <state width="1364" height="195" key="GridCell.Tab.0.right" timestamp="1582729892971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582729892971" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1582729620826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582729620826" />
+  </component>
+</project>
